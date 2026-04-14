@@ -28,7 +28,4 @@ models:
     mart:
       +materialized: table
 
-    staging:
-      +materialized: view
-
       
