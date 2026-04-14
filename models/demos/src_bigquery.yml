@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: bigquery
+    database: aesthetic-root-450220-e1
+    schema: raw
+    
+    tables: 
+      - name: service_based_business_database_service_based_business_database_csv
